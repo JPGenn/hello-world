@@ -1,2 +1,3 @@
 # hello-world
 My first repository..?
+So, I'm just getting into this world of coding and ish, so I'm getting ready to make all of the mistakes. I'm not even sure what I'm doing here...
